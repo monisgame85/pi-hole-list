@@ -2,3 +2,4 @@
 0.0.0.0 mozzartbet.ro
 0.0.0.0 worldoftanks.eu
 0.0.0.0 ditterileainaze.com
+0.0.0.0 stake.com
