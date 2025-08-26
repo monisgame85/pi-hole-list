@@ -1,4 +1,4 @@
-*.betano.com
-*.mozzartbet.ro
-*.worldoftanks.eu
-*.ditterileainaze.com
+0.0.0.0 betano.com
+0.0.0.0 mozzartbet.ro
+0.0.0.0 worldoftanks.eu
+0.0.0.0 ditterileainaze.com
